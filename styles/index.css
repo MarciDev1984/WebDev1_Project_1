@@ -1,10 +1,18 @@
 #selfport {
   float: left;
-  width: 25%;
   height: 25%;
+  width: 25%;
+  max-width: 300px;
+  max-height: 300px;
   margin: 5px;
 }
 
-p {
-  margin: 25px;
+main>p {
+  margin: 0px 25px;
+  min-height: 225px;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
 }
