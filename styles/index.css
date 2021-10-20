@@ -1,0 +1,10 @@
+#selfport {
+  float: left;
+  width: 25%;
+  height: 25%;
+  margin: 5px;
+}
+
+p {
+  margin: 25px;
+}
